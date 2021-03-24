@@ -1,4 +1,9 @@
 html, body, .container-fluid, .row {
   height: 100%;
 }
+
+a {
+  text-decoration: none; 
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
